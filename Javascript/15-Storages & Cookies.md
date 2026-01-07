@@ -1,10 +1,5 @@
 # Storages & Cookies
 
-Created time: July 23, 2025 9:41 PM
-Difficulty: Intermediate
-Last edited time: July 23, 2025 9:49 PM
-Status: Done
-
 ## 👉 `localStorage`
 
 `localStorage` is part of the **Web Storage API** that allows you to store **key-value pairs** in the **browser** with **no expiration time**.

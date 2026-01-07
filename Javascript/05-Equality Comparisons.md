@@ -1,10 +1,5 @@
 # Equality Comparisons
 
-Created time: July 20, 2025 11:30 PM
-Difficulty: Beginner
-Last edited time: July 21, 2025 6:51 PM
-Status: Done
-
 ## 👉 `==` (Loose Equality)
 
 - Checks for equality after doing type coercion.

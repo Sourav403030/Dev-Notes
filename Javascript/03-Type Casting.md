@@ -1,10 +1,5 @@
 # Type Casting
 
-Created time: July 20, 2025 7:46 PM
-Difficulty: Beginner
-Last edited time: July 20, 2025 7:59 PM
-Status: Done
-
 ## 👉 Type Conversion (Explicit Type Casting)
 
 - The user converts from one data type to another explicitly.

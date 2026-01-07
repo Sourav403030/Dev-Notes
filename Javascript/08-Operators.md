@@ -1,10 +1,5 @@
 # Operators
 
-Created time: July 21, 2025 8:43 PM
-Difficulty: Beginner
-Last edited time: July 21, 2025 8:48 PM
-Status: Done
-
 ## 👉 Operators
 
 - Operators are special symbols or keywords in Javascript used to perform operations on values(operands).

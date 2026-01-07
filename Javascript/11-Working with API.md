@@ -1,10 +1,5 @@
 # Working with API
 
-Created time: July 22, 2025 12:20 AM
-Difficulty: Intermediate
-Last edited time: July 22, 2025 12:26 AM
-Status: Done
-
 ## 👉 Asynchronous Javascript and XML (AJAX)
 
 It is **not a programming language**, but a **technique** used in web development to:

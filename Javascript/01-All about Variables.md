@@ -1,10 +1,5 @@
 # All about Variables
 
-Created time: July 20, 2025 2:37 PM
-Difficulty: Beginner
-Last edited time: November 14, 2025 10:54 PM
-Status: Done
-
 ## 👉 Variable Declarations
 
 - Variables are containers that hold the data.

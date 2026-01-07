@@ -1,10 +1,5 @@
 # Event Handling
 
-Created time: July 23, 2025 8:20 PM
-Difficulty: Intermediate
-Last edited time: November 3, 2025 11:38 AM
-Status: Done
-
 ## 👉 `addEventListener()`
 
 - Attaches an event handler to an element **without overwriting existing event handlers**.

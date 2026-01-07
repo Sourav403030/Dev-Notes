@@ -1,16 +1,11 @@
 # DOM
 
-Created time: July 23, 2025 7:45 PM
-Difficulty: Intermediate
-Last edited time: November 14, 2025 11:13 PM
-Status: Done
-
 - DOM stands for Document Object Model.
 - It’s a **tree-like structure** that represents your **HTML document in memory**, so that JavaScript can interact with it.
 - The DOM is how your browser understands and structures your HTML, so that JavaScript can **read**, **modify**, or **delete** elements on your webpage.
 - Structure of DOM -
     
-    ![Screenshot 2025-11-14 at 11.13.15 PM.png](DOM/Screenshot_2025-11-14_at_11.13.15_PM.png)
+<img src="./Images/DOM.png" width={500} /> 
     
 
 ## 👉 Selecting Elements

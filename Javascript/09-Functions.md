@@ -1,10 +1,5 @@
 # Functions
 
-Created time: July 21, 2025 9:26 PM
-Difficulty: Beginner
-Last edited time: November 14, 2025 11:01 PM
-Status: Done
-
 ## ❗️ What are Functions?
 
 - Functions are blocks of reusable logic.

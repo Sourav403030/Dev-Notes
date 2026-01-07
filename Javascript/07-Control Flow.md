@@ -1,10 +1,5 @@
 # Control Flow
 
-Created time: July 21, 2025 8:04 PM
-Difficulty: Beginner
-Last edited time: July 21, 2025 8:42 PM
-Status: Done
-
 ## 👉 Conditional Statements
 
 - Control flow decides which code to run, when it runs and how many times it runs.

@@ -1,10 +1,5 @@
 # Loops and Iterations
 
-Created time: July 21, 2025 6:51 PM
-Difficulty: Beginner
-Last edited time: July 21, 2025 8:04 PM
-Status: Done
-
 ## 👉 Loops
 
 - Loops help us repeat code without rewriting it.

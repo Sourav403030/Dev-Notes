@@ -1,10 +1,5 @@
 # Data Structures
 
-Created time: July 20, 2025 10:03 PM
-Difficulty: Intermediate
-Last edited time: October 30, 2025 12:27 PM
-Status: Done
-
 ## 👉 Keyed Data Structures
 
 - It stores values associated with keys.

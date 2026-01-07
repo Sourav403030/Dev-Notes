@@ -1,10 +1,5 @@
 # Data Types
 
-Created time: July 20, 2025 2:53 PM
-Difficulty: Beginner
-Last edited time: November 14, 2025 10:57 PM
-Status: Done
-
 ## 👉 What are Data types?
 
 - In Javascript, every value has a type.

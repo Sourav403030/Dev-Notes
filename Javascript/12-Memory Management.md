@@ -1,10 +1,5 @@
 # Memory Management
 
-Created time: July 22, 2025 12:33 AM
-Difficulty: Advanced
-Last edited time: July 22, 2025 12:37 AM
-Status: Done
-
 ## 👉 Memory Lifecycle
 
 - Every variable or object in your program goes through **three main phases** in its memory lifecycle:

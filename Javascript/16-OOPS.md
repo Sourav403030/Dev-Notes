@@ -1,10 +1,5 @@
 # OOPS
 
-Created time: December 1, 2025 10:38 PM
-Difficulty: Advanced
-Last edited time: December 14, 2025 10:29 PM
-Status: Done
-
 ## 👉 Why do we need OOPS?
 
 ### 🎯  **To model real-world things in code**
