@@ -1,11 +1,5 @@
 # JS Essentials
 
-Difficulty: Easy
-Status: Completed
-Category: Fundamental
-Created time: November 21, 2025 11:18 AM
-Last edited time: December 13, 2025 11:32 PM
-
 ## 👉 Questions
 
 ### 🎯 Sum of Two Integers

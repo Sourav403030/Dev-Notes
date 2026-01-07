@@ -1,18 +1,14 @@
 # Array Questions
 
-Difficulty: Medium
-Status: Completed
-Category: Array
-Created time: December 27, 2025 12:10 PM
-Last edited time: December 30, 2025 12:00 PM
-
 ## 👉 Questions
 
 ### 🎯 Sum of Absolute Differences.
 
-![Screenshot 2025-12-27 at 12.11.59 PM.png](Array%20Questions/Screenshot_2025-12-27_at_12.11.59_PM.png)
+<img src="./Images/sum-of-abs-diff.png" width="300" />
 
-![Screenshot 2025-12-27 at 12.14.44 PM.png](Array%20Questions/Screenshot_2025-12-27_at_12.14.44_PM.png)
+<img src="./Images/sum-of-abs-diff2.png" width="300" />
+
+
 
 ```jsx
 function absoluteDifference(arr){
