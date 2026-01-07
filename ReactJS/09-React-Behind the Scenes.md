@@ -1,9 +1,5 @@
 # React-Behind the Scenes
 
-Status: Not Started
-Created time: July 25, 2025 2:10 PM
-Last edited time: December 19, 2025 10:21 PM
-
 ## 👉 Reconciliation
 
 - **Reconciliation** is the **process React uses to update the DOM** when the state or props of a component change.

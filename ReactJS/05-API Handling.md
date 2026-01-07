@@ -1,9 +1,5 @@
 # API
 
-Status: Not Started
-Created time: December 19, 2024 9:02 PM
-Last edited time: January 1, 2026 8:37 PM
-
 - API is just a link which is provided by the Backend.
 - It is used to fetch the data stored in the backend and show it in the frontend.
 - AJAX - Asynchronous JavaScript and XML is used to communicate between the backend and frontend. It is implemented using `fetch/axios` .

@@ -1,9 +1,5 @@
 # Routing
 
-Status: Not Started
-Created time: December 17, 2024 9:06 PM
-Last edited time: January 5, 2026 1:44 PM
-
 ## 👉 React-Router-DOM
 
 - Install React Router DOM `npm i react-router-dom` .

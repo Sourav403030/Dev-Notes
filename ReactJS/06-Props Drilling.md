@@ -1,9 +1,5 @@
 # Props Drilling
 
-Status: Not Started
-Created time: December 14, 2024 10:17 PM
-Last edited time: January 6, 2026 6:41 PM
-
 ## 👉 Props
 
 - Props are used to make the components in ReactJS reusable.

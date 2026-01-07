@@ -1,9 +1,5 @@
 # React-Basics
 
-Status: Not Started
-Created time: July 25, 2025 11:55 AM
-Last edited time: December 19, 2025 10:21 PM
-
 ## 👉 What is React?
 
 ### ❗️The Problems

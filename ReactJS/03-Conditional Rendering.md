@@ -1,9 +1,5 @@
 # Conditional Rendering
 
-Status: Not Started
-Created time: December 10, 2024 7:44 PM
-Last edited time: January 1, 2026 8:34 PM
-
 ## 👉 Conditional Rendering
 
 - Conditional rendering in React allows you to dynamically decide which elements to render based on a condition. It's similar to conditional statements in JavaScript like `if`, `else`, or ternary operators, but applied within the JSX markup.

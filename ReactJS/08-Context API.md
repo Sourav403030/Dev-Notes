@@ -1,9 +1,5 @@
 # Context API
 
-Status: Not Started
-Created time: January 18, 2025 12:54 PM
-Last edited time: December 19, 2025 10:21 PM
-
 - Traditionally we can only send data from parent  → child → grandchild using props.
 - With the help of Context API, we can wrap the whole application with context and create a separate file for centralising the data & connect it with context so that any component can access to the data easily & directly without transferring it hierarchy.
 

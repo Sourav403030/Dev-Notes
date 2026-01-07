@@ -1,9 +1,5 @@
 # Form Handling
 
-Status: Not Started
-Created time: December 15, 2024 10:38 PM
-Last edited time: December 19, 2025 10:21 PM
-
 - When a form is submitted, the webpage is always reloaded.
 - React is designed so that changes are shown on a webpage without reloading it.
 - So we have to avoid that reloading when handling forms with React. It can be done in different ways.

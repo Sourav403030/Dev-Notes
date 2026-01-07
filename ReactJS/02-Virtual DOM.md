@@ -1,9 +1,5 @@
 # Virtual DOM
 
-Status: Not Started
-Created time: December 9, 2024 10:51 PM
-Last edited time: December 19, 2025 10:21 PM
-
 - When we change multiple elements in a website, a lot of re-painting(re-rendering) takes place. It is performed also on the elements which has not undergone any change, this slows down the website.
 - For this reason too, Facebook created ReactJS which uses Virtual DOM.
 
