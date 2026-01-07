@@ -28,7 +28,7 @@ absoluteDifference([-1,3,-2,5]);
 
 ### 🎯 Multiplication of Previous and Next.
 
-![Screenshot 2025-12-27 at 12.16.20 PM.png](Array%20Questions/Screenshot_2025-12-27_at_12.16.20_PM.png)
+<img src="./Images/mult-prev-next.png" width="300" />
 
 ```jsx
 function PreviousNextMultiplication(arr){
@@ -49,7 +49,7 @@ PreviousNextMultiplication([1,2,3,4,5]);
 
 ### 🎯 Minimum value to add for Balanced Array.
 
-![Screenshot 2025-12-27 at 12.17.46 PM.png](Array%20Questions/Screenshot_2025-12-27_at_12.17.46_PM.png)
+<img src="./Images/balanced-array.png" width="300" />
 
 ```jsx
 function BalancedArray(arr){
@@ -75,7 +75,7 @@ BalancedArray([1,2,1,2,1,3]);
 
 ### 🎯 Sort First half Ascending and Second half Descending.
 
-![Screenshot 2025-12-27 at 12.18.48 PM.png](Array%20Questions/Screenshot_2025-12-27_at_12.18.48_PM.png)
+<img src="./Images/asc-desc.png" width="300" />
 
 ```jsx
 function sortArray(arr){

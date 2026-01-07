@@ -1,11 +1,5 @@
 # For Loop
 
-Difficulty: Easy
-Status: Completed
-Category: Fundamental
-Created time: December 1, 2025 12:37 PM
-Last edited time: December 20, 2025 11:58 PM
-
 ## 👉 Questions
 
 ### 🎯 Print Natural numbers from 1 to N.

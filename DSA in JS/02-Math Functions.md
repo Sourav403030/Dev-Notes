@@ -1,11 +1,5 @@
 # Math Functions
 
-Difficulty: Easy
-Status: Completed
-Category: Fundamental
-Created time: November 23, 2025 10:59 AM
-Last edited time: December 13, 2025 11:33 PM
-
 ### 🎯 `Math.round()`
 
 - Rounds a number to the nearest integer.

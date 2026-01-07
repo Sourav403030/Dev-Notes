@@ -1,16 +1,10 @@
 # Strings Questions
 
-Difficulty: Easy
-Status: In Progress
-Category: Strings
-Created time: January 5, 2026 11:40 AM
-Last edited time: January 6, 2026 1:34 PM
-
 ## 👉 Questions
 
 ### 🎯 Count Asterisks
 
-![Screenshot 2026-01-05 at 11.41.14 AM.png](Strings%20Questions/Screenshot_2026-01-05_at_11.41.14_AM.png)
+<img src="./Images/count-asterisks.png" width="300" />
 
 ```jsx
 function countAsteriks(str){
@@ -87,7 +81,7 @@ console.log(checkAandB("aaaaabbbbb")); // true
 
 ### 🎯 Strong Password Checker
 
-![Screenshot 2026-01-06 at 1.31.27 PM.png](Strings%20Questions/Screenshot_2026-01-06_at_1.31.27_PM.png)
+<img src="./Images/strong-password.png" width="300" />
 
 ```jsx
 function strongPassword(pass) {
@@ -132,7 +126,7 @@ strongPassword("Abcdefgh1!");
 
 ### 🎯 Greatest English Letter in Uppercase & Lowercase
 
-![Screenshot 2026-01-06 at 1.33.21 PM.png](Strings%20Questions/Screenshot_2026-01-06_at_1.33.21_PM.png)
+<img src="./Images/greatest-eng-letter.png" width="300" />
 
 ```jsx
 function GreatestLetter(str){

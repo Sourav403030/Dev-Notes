@@ -1,11 +1,5 @@
 # Do While Loop
 
-Difficulty: Easy
-Status: Completed
-Category: Fundamental
-Created time: December 13, 2025 11:25 PM
-Last edited time: December 13, 2025 11:33 PM
-
 ## 👉 Questions
 
 ### 🎯 Number guessing game

@@ -1,11 +1,5 @@
 # Assignment on Loops
 
-Difficulty: Easy
-Status: Completed
-Category: Fundamental
-Created time: December 15, 2025 10:42 AM
-Last edited time: December 17, 2025 12:02 PM
-
 ## 👉 Questions
 
 ### 🎯 Harshad Number Check.

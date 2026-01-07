@@ -1,16 +1,10 @@
 # Sorting Algorithms
 
-Difficulty: Medium
-Status: Completed
-Category: Sorting
-Created time: January 1, 2026 12:46 PM
-Last edited time: January 1, 2026 1:46 PM
-
 ## 👉 Questions
 
 ### 🎯 Bubble Sort
 
-![Screenshot 2026-01-01 at 12.47.59 PM.png](Sorting%20Algorithms/Screenshot_2026-01-01_at_12.47.59_PM.png)
+<img src="./Images/bubble-sort.png" width="500" />
 
 ```jsx
 function bubbleSort(arr) {
@@ -34,7 +28,7 @@ bubbleSort([9,8,1,4,10,23]);
 
 ### 🎯 Selection Sort
 
-![Screenshot 2026-01-01 at 1.42.10 PM.png](Sorting%20Algorithms/Screenshot_2026-01-01_at_1.42.10_PM.png)
+<img src="./Images/selection-sort.png" width="500" />
 
 ```jsx
 function selectionSort(arr){

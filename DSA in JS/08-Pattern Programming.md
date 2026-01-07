@@ -1,11 +1,5 @@
 # Pattern Programming
 
-Difficulty: Medium
-Status: Completed
-Category: Fundamental
-Created time: December 17, 2025 12:02 PM
-Last edited time: December 22, 2025 11:57 AM
-
 ## 👉 Questions
 
 ### 🎯  Print stars in n number of lines.

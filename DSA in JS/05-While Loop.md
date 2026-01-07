@@ -1,11 +1,5 @@
 # While Loop
 
-Difficulty: Easy
-Status: Completed
-Category: Fundamental
-Created time: December 13, 2025 11:16 PM
-Last edited time: December 13, 2025 11:33 PM
-
 ## 👉 Questions
 
 ### 🎯 Sum of digits of a number.

@@ -1,11 +1,5 @@
 # Strings - Part 1
 
-Difficulty: Easy
-Status: Completed
-Category: Strings
-Created time: January 2, 2026 10:57 AM
-Last edited time: January 3, 2026 7:05 PM
-
 - Strings are not `Array of characters`. They just show some of the behaviour of the arrays.
 - Strings are `immutable`. If you want to change the value of a string, then you need to re-assign the new value.
 

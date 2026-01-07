@@ -1,11 +1,5 @@
 # Strings - Part 2
 
-Difficulty: Easy
-Status: Completed
-Category: Strings
-Created time: January 3, 2026 7:05 PM
-Last edited time: January 5, 2026 11:40 AM
-
 ## 👉 Questions
 
 ### 🎯 Toggle each alphabet of a String

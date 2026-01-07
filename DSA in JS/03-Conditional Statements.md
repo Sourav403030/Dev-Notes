@@ -1,11 +1,5 @@
 # Conditional Statements
 
-Difficulty: Easy
-Status: Completed
-Category: Fundamental
-Created time: November 25, 2025 11:43 AM
-Last edited time: December 20, 2025 12:15 PM
-
 ## 👉 Questions
 
 ### 🎯 Accept two numbers and print the greatest between them.

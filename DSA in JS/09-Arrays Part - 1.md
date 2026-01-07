@@ -1,11 +1,5 @@
 # Arrays Part - 1
 
-Difficulty: Medium
-Status: Completed
-Category: Array
-Created time: December 22, 2025 11:57 AM
-Last edited time: January 4, 2026 12:50 PM
-
 ## 👉 Questions
 
 ### 🎯 Explain the output of the code.

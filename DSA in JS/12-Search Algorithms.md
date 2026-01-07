@@ -1,11 +1,5 @@
 # Search Algorithms
 
-Difficulty: Medium
-Status: Completed
-Category: Searching
-Created time: December 30, 2025 11:59 AM
-Last edited time: January 4, 2026 2:29 PM
-
 ## 👉 Questions
 
 ### 🎯 Linear Search
@@ -28,7 +22,7 @@ linearSearch([1,2,3,4,5,6,7,8,9], 5);
 
 ### 🎯 Binary Search - Only on sorted arrays.
 
-![Screenshot 2025-12-30 at 12.02.54 PM.png](Search%20Algorithms/Screenshot_2025-12-30_at_12.02.54_PM.png)
+<img src="./Images/binary-search.png" width="500" />
 
 ```jsx
 function binarySearch(arr, target){

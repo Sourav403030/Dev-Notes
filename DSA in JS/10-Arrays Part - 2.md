@@ -1,16 +1,10 @@
 # Arrays Part - 2
 
-Difficulty: Medium
-Status: Completed
-Category: Array
-Created time: December 24, 2025 1:19 PM
-Last edited time: December 27, 2025 12:20 PM
-
 ## 👉 Questions
 
 ### 🎯 Array left rotation by 1.
 
-![Screenshot 2025-12-27 at 12.20.12 PM.png](Arrays%20Part%20-%202/Screenshot_2025-12-27_at_12.20.12_PM.png)
+<img src="./Images/left-rotation-by-1.png" width="300" />
 
 ```jsx
 function leftRotation(arr){
