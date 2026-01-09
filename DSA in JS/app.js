@@ -1,22 +1,44 @@
 // Practise File
 
-// Good Number
+// function array2D(arr){
+//     let newArr = new Array(3);
 
-// function goodNumber(str){
-//     let result = "";
-//     for(let i = 0; i < str.length; i++){
-//         if(str[i] === str[i+1] && str[i] === str[i+2]){
-//             let candidate = str.slice(i,i+3);
+//     for(let i = 0; i < newArr.length; i++){
+//         newArr[i] = new Array(2);
+//     }
 
-//             if(candidate > result){
-//                 result = candidate;
-//             }
+//     for(let i = 0; i < newArr.length; i++){
+//         for(let j = 0; j < newArr[i].length; j++){
+//             newArr[i][j] = arr;
 //         }
 //     }
 
-//     console.log(result);
+//     for(let i = 0; i < newArr.length; i++){
+//         for(let j = 0; j < newArr[i].length; j++){
+//             process.stdout.write(newArr[i][j] + " ");
+//         }
+
+//         console.log();
+//     }
 // }
 
-// goodNumber("6777133339");
+// array2D([1,2]);
 
-// goodNumber("2300019");
+function maxResult(num, char){
+    let indexToRemove = -1;
+    for(let i = 0; i < num.length; i++){
+        if(num[i] === char){
+            if(i+1 < num.length && num[i+1] > char){
+                indexToRemove = i;
+                break;
+            }
+            indexToRemove = i;
+        }
+    }
+
+    let finalResult = num.slice(0, indexToRemove) + num.slice(indexToRemove + 1);
+
+    console.log(finalResult);
+}
+
+maxResult("1231", "1");

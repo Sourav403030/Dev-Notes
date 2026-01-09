@@ -174,3 +174,28 @@ goodNumber("6777133339");
 
 goodNumber("2300019");
 ```
+
+### 🎯 Maximize Result
+
+<img src="./Images//maximize-result.png" width="300" />
+
+```js
+function maxResult(num, char){
+    let indexToRemove = -1;
+    for(let i = 0; i < num.length; i++){
+        if(num[i] === char){
+            if(i+1 < num.length && num[i+1] > char){
+                indexToRemove = i;
+                break;
+            }
+            indexToRemove = i;
+        }
+    }
+
+    let finalResult = num.slice(0, indexToRemove) + num.slice(indexToRemove + 1);
+
+    console.log(finalResult);
+}
+
+maxResult("1231", "1");
+```
