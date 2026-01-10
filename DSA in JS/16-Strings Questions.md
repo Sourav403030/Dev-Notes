@@ -199,3 +199,27 @@ function maxResult(num, char){
 
 maxResult("1231", "1");
 ```
+
+### Check if Number has Equal Digit Count and Digit Value
+
+<img src="./Images/equal-digit-count-value.png" width="300" />
+
+```js
+function indexChecker(str){
+    let freq = new Array(10).fill(0);
+
+    for(let ch of str){
+        freq[ch]++;
+    }
+
+    for(let i = 0; i < str.length; i++){
+        if(freq[i] != Number(str[i])) return false;
+    }
+    
+    return true;
+}
+
+console.log(indexChecker("1210"));
+```
+
+
